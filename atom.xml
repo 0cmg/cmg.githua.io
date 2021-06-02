@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog</title>
+  
+  <subtitle>最怕一生碌碌无为，还说平凡难能可贵</subtitle>
+  <link href="https://0cmg.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://0cmg.github.io/"/>
+  <updated>2021-06-02T07:57:28.260Z</updated>
+  <id>https://0cmg.github.io/</id>
+  
+  <author>
+    <name>cmg</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux后台运行Hexo</title>
+    <link href="https://0cmg.github.io/p/8631bdb3.html"/>
+    <id>https://0cmg.github.io/p/8631bdb3.html</id>
+    <published>2021-06-02T06:50:27.000Z</published>
+    <updated>2021-06-02T07:57:28.260Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Linux后台运行Hexo&quot;&gt;&lt;a href=&quot;#Linux后台运行Hexo&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Hexo" scheme="https://0cmg.github.io/categories/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://0cmg.github.io/tags/Hexo/"/>
+    
+    <category term="Linux" scheme="https://0cmg.github.io/tags/Linux/"/>
+    
+    <category term="后台运行" scheme="https://0cmg.github.io/tags/%E5%90%8E%E5%8F%B0%E8%BF%90%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CentOS 8设置防火墙</title>
+    <link href="https://0cmg.github.io/p/9b3f6412.html"/>
+    <id>https://0cmg.github.io/p/9b3f6412.html</id>
+    <published>2021-06-01T08:50:36.000Z</published>
+    <updated>2021-06-02T07:57:28.270Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;CentOS-8设置防火墙&quot;&gt;&lt;a href=&quot;#CentOS-8设置防火墙&quot; class=&quot;headerlink&quot; title=&quot;CentOS 8设置防火墙&quot;&gt;&lt;/a&gt;CentOS 8设置防火墙&lt;/h2&gt;&lt;p&gt;启动防火墙：&lt;/p&gt;
+&lt;pre class=&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://0cmg.github.io/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://0cmg.github.io/tags/Linux/"/>
+    
+    <category term="firewall" scheme="https://0cmg.github.io/tags/firewall/"/>
+    
+    <category term="CentOS 8" scheme="https://0cmg.github.io/tags/CentOS-8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux安装NodeJS</title>
+    <link href="https://0cmg.github.io/p/fe4ed47c.html"/>
+    <id>https://0cmg.github.io/p/fe4ed47c.html</id>
+    <published>2021-06-01T07:42:20.000Z</published>
+    <updated>2021-06-02T07:57:28.276Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Linux系统安装Nodejs&quot;&gt;&lt;a href=&quot;#Linux系统安装Nodejs&quot; class=&quot;headerlink&quot; title=&quot;Linux系统安装Nodejs&quot;&gt;&lt;/a&gt;Linux系统安装Nodejs&lt;/h2&gt;&lt;h3 id=&quot;一、下载安装包&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Node" scheme="https://0cmg.github.io/categories/Node/"/>
+    
+    <category term="Linux" scheme="https://0cmg.github.io/categories/Node/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://0cmg.github.io/tags/Linux/"/>
+    
+    <category term="Node" scheme="https://0cmg.github.io/tags/Node/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PicGo+GitHub搭建图床</title>
+    <link href="https://0cmg.github.io/p/e4df49cd.html"/>
+    <id>https://0cmg.github.io/p/e4df49cd.html</id>
+    <published>2021-06-01T07:25:17.000Z</published>
+    <updated>2021-06-02T07:57:28.284Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;PicGo-GitHub搭建图床&quot;&gt;&lt;a href=&quot;#PicGo-GitHub搭建图床&quot; class=&quot;headerlink&quot; title=&quot;PicGo + GitHub搭建图床&quot;&gt;&lt;/a&gt;PicGo + GitHub搭建图床&lt;/h2&gt;&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="图床" scheme="https://0cmg.github.io/categories/%E5%9B%BE%E5%BA%8A/"/>
+    
+    
+    <category term="PicGo" scheme="https://0cmg.github.io/tags/PicGo/"/>
+    
+    <category term="GitHub" scheme="https://0cmg.github.io/tags/GitHub/"/>
+    
+    <category term="图床" scheme="https://0cmg.github.io/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux安装Git</title>
+    <link href="https://0cmg.github.io/p/cb641173.html"/>
+    <id>https://0cmg.github.io/p/cb641173.html</id>
+    <published>2021-06-01T06:44:15.000Z</published>
+    <updated>2021-06-02T07:57:28.273Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Linux安装Git&quot;&gt;&lt;a href=&quot;#Linux安装Git&quot; class=&quot;headerlink&quot; title=&quot;Linux安装Git&quot;&gt;&lt;/a&gt;Linux安装Git&lt;/h2&gt;&lt;h3 id=&quot;一、Git介绍&quot;&gt;&lt;a href=&quot;#一、Git介绍&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://0cmg.github.io/categories/Linux/"/>
+    
+    <category term="Git" scheme="https://0cmg.github.io/categories/Linux/Git/"/>
+    
+    
+    <category term="Linux" scheme="https://0cmg.github.io/tags/Linux/"/>
+    
+    <category term="Git" scheme="https://0cmg.github.io/tags/Git/"/>
+    
+    <category term="Linux安装Git" scheme="https://0cmg.github.io/tags/Linux%E5%AE%89%E8%A3%85Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux命令大全</title>
+    <link href="https://0cmg.github.io/p/aba20dc.html"/>
+    <id>https://0cmg.github.io/p/aba20dc.html</id>
+    <published>2021-06-01T06:14:03.000Z</published>
+    <updated>2021-06-02T07:57:28.272Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Linux命令&quot;&gt;&lt;a href=&quot;#Linux命令&quot; class=&quot;headerlink&quot; title=&quot;Linux命令&quot;&gt;&lt;/a&gt;Linux命令&lt;/h2&gt;&lt;h3 id=&quot;1-tar&quot;&gt;&lt;a href=&quot;#1-tar&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://0cmg.github.io/categories/Linux/"/>
+    
+    
+    <category term="Linux Command" scheme="https://0cmg.github.io/tags/Linux-Command/"/>
+    
+    <category term="Linux命令" scheme="https://0cmg.github.io/tags/Linux%E5%91%BD%E4%BB%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>根据WSDL接口使用Apache cxf生成Java代码</title>
+    <link href="https://0cmg.github.io/p/319f657d.html"/>
+    <id>https://0cmg.github.io/p/319f657d.html</id>
+    <published>2021-05-27T09:30:49.000Z</published>
+    <updated>2021-06-02T07:57:28.267Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;根据WSDL接口使用Apache-cxf生成Java代码&quot;&gt;&lt;a href=&quot;#根据WSDL接口使用Apache-cxf生成Java代码&quot; class=&quot;headerlink&quot; title=&quot;根据WSDL接口使用Apache</summary>
+        
+      
+    
+    
+    
+    <category term="WebService" scheme="https://0cmg.github.io/categories/WebService/"/>
+    
+    
+    <category term="WSDL" scheme="https://0cmg.github.io/tags/WSDL/"/>
+    
+    <category term="Apache xcf" scheme="https://0cmg.github.io/tags/Apache-xcf/"/>
+    
+    <category term="Java" scheme="https://0cmg.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GitHub+Hexo搭建个人网站详细教程</title>
+    <link href="https://0cmg.github.io/p/b589d958.html"/>
+    <id>https://0cmg.github.io/p/b589d958.html</id>
+    <published>2021-05-27T01:10:01.000Z</published>
+    <updated>2021-06-02T07:57:28.258Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;GitHub-Hexo-搭建个人网站详细教程&quot;&gt;&lt;a href=&quot;#GitHub-Hexo-搭建个人网站详细教程&quot; class=&quot;headerlink&quot; title=&quot;GitHub+Hexo 搭建个人网站详细教程&quot;&gt;&lt;/a&gt;GitHub+Hexo</summary>
+        
+      
+    
+    
+    
+    <category term="Hexo" scheme="https://0cmg.github.io/categories/Hexo/"/>
+    
+    
+    <category term="GitHub+Hexo搭建个人网站" scheme="https://0cmg.github.io/tags/GitHub-Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/"/>
+    
+    <category term="website" scheme="https://0cmg.github.io/tags/website/"/>
+    
+    <category term="网站" scheme="https://0cmg.github.io/tags/%E7%BD%91%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Oracle笔记(二)锁表检测及处理</title>
+    <link href="https://0cmg.github.io/p/7b6bf07a.html"/>
+    <id>https://0cmg.github.io/p/7b6bf07a.html</id>
+    <published>2021-05-21T06:13:44.000Z</published>
+    <updated>2021-06-02T07:57:28.281Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;锁表检测及处理&quot;&gt;&lt;a href=&quot;#锁表检测及处理&quot; class=&quot;headerlink&quot; title=&quot;锁表检测及处理&quot;&gt;&lt;/a&gt;锁表检测及处理&lt;/h2&gt;&lt;h3 id=&quot;1-锁表检测&quot;&gt;&lt;a href=&quot;#1-锁表检测&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Oracle" scheme="https://0cmg.github.io/categories/Oracle/"/>
+    
+    
+    <category term="Oracle锁表" scheme="https://0cmg.github.io/tags/Oracle%E9%94%81%E8%A1%A8/"/>
+    
+    <category term="锁表检测" scheme="https://0cmg.github.io/tags/%E9%94%81%E8%A1%A8%E6%A3%80%E6%B5%8B/"/>
+    
+    <category term="锁表处理" scheme="https://0cmg.github.io/tags/%E9%94%81%E8%A1%A8%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Oracle笔记(一)创建表空间及用户</title>
+    <link href="https://0cmg.github.io/p/9dc7261d.html"/>
+    <id>https://0cmg.github.io/p/9dc7261d.html</id>
+    <published>2021-05-21T05:59:05.000Z</published>
+    <updated>2021-06-02T07:57:28.279Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;创建表空间及用户&quot;&gt;&lt;a href=&quot;#创建表空间及用户&quot; class=&quot;headerlink&quot; title=&quot;创建表空间及用户&quot;&gt;&lt;/a&gt;创建表空间及用户&lt;/h2&gt;&lt;h3 id=&quot;1-创建表空间&quot;&gt;&lt;a href=&quot;#1-创建表空间&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Oracle" scheme="https://0cmg.github.io/categories/Oracle/"/>
+    
+    
+    <category term="创建表空间" scheme="https://0cmg.github.io/tags/%E5%88%9B%E5%BB%BA%E8%A1%A8%E7%A9%BA%E9%97%B4/"/>
+    
+    <category term="创建用户" scheme="https://0cmg.github.io/tags/%E5%88%9B%E5%BB%BA%E7%94%A8%E6%88%B7/"/>
+    
+    <category term="授权" scheme="https://0cmg.github.io/tags/%E6%8E%88%E6%9D%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JDK各个历史版本下载方法</title>
+    <link href="https://0cmg.github.io/p/b68953c6.html"/>
+    <id>https://0cmg.github.io/p/b68953c6.html</id>
+    <published>2021-05-13T01:57:51.000Z</published>
+    <updated>2021-06-02T07:57:28.265Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;JDK各个历史版本下载方法&quot;&gt;&lt;a href=&quot;#JDK各个历史版本下载方法&quot; class=&quot;headerlink&quot; title=&quot;JDK各个历史版本下载方法&quot;&gt;&lt;/a&gt;JDK各个历史版本下载方法&lt;/h3&gt;&lt;h4 id=&quot;开篇&quot;&gt;&lt;a href=&quot;#开篇&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="SoftWare" scheme="https://0cmg.github.io/categories/SoftWare/"/>
+    
+    <category term="JDK" scheme="https://0cmg.github.io/categories/SoftWare/JDK/"/>
+    
+    
+    <category term="JDK" scheme="https://0cmg.github.io/tags/JDK/"/>
+    
+    <category term="Oracle" scheme="https://0cmg.github.io/tags/Oracle/"/>
+    
+    <category term="历史版本" scheme="https://0cmg.github.io/tags/%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC/"/>
+    
+    <category term="DownLoad" scheme="https://0cmg.github.io/tags/DownLoad/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>剑指offer</title>
+    <link href="https://0cmg.github.io/p/1c53329c.html"/>
+    <id>https://0cmg.github.io/p/1c53329c.html</id>
+    <published>2021-05-08T09:13:24.000Z</published>
+    <updated>2021-06-02T07:57:28.262Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;剑指offer&quot;&gt;&lt;a href=&quot;#剑指offer&quot; class=&quot;headerlink&quot; title=&quot;剑指offer&quot;&gt;&lt;/a&gt;剑指offer&lt;/h3&gt;&lt;h4 id=&quot;1、二维数组中的查找&quot;&gt;&lt;a href=&quot;#1、二维数组中的查找&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="笔试" scheme="https://0cmg.github.io/categories/%E7%AC%94%E8%AF%95/"/>
+    
+    
+    <category term="Coding" scheme="https://0cmg.github.io/tags/Coding/"/>
+    
+    <category term="编程题" scheme="https://0cmg.github.io/tags/%E7%BC%96%E7%A8%8B%E9%A2%98/"/>
+    
+    <category term="剑指offer" scheme="https://0cmg.github.io/tags/%E5%89%91%E6%8C%87offer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA报错合集</title>
+    <link href="https://0cmg.github.io/p/4f9f6511.html"/>
+    <id>https://0cmg.github.io/p/4f9f6511.html</id>
+    <published>2021-05-07T06:07:49.000Z</published>
+    <updated>2021-06-02T07:57:28.289Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;IDEA错误列表&quot;&gt;&lt;a href=&quot;#IDEA错误列表&quot; class=&quot;headerlink&quot; title=&quot;IDEA错误列表&quot;&gt;&lt;/a&gt;IDEA错误列表&lt;/h2&gt;&lt;h3 id=&quot;1-错误1&quot;&gt;&lt;a href=&quot;#1-错误1&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="IDEA" scheme="https://0cmg.github.io/categories/IDEA/"/>
+    
+    
+    <category term="IDEA报错合集" scheme="https://0cmg.github.io/tags/IDEA%E6%8A%A5%E9%94%99%E5%90%88%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git push报错</title>
+    <link href="https://0cmg.github.io/p/70b160a5.html"/>
+    <id>https://0cmg.github.io/p/70b160a5.html</id>
+    <published>2021-05-06T09:06:08.000Z</published>
+    <updated>2021-06-02T07:57:28.255Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Git错误列表&quot;&gt;&lt;a href=&quot;#Git错误列表&quot; class=&quot;headerlink&quot; title=&quot;Git错误列表&quot;&gt;&lt;/a&gt;Git错误列表&lt;/h2&gt;&lt;h3 id=&quot;1-git提交代码报错&quot;&gt;&lt;a href=&quot;#1-git提交代码报错&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Git" scheme="https://0cmg.github.io/categories/Git/"/>
+    
+    
+    <category term="Git报错合集" scheme="https://0cmg.github.io/tags/Git%E6%8A%A5%E9%94%99%E5%90%88%E9%9B%86/"/>
+    
+    <category term="push" scheme="https://0cmg.github.io/tags/push/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://0cmg.github.io/p/4a17b156.html"/>
+    <id>https://0cmg.github.io/p/4a17b156.html</id>
+    <published>2021-05-05T09:06:08.000Z</published>
+    <updated>2021-06-02T07:57:28.286Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="其他" scheme="https://0cmg.github.io/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+    <category term="示例" scheme="https://0cmg.github.io/tags/%E7%A4%BA%E4%BE%8B/"/>
+    
+  </entry>
+  
+</feed>
