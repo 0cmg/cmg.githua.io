@@ -3,11 +3,11 @@
   <title>Blog</title>
   
   <subtitle>最怕一生碌碌无为，还说平凡难能可贵</subtitle>
-  <link href="https://0cmg.github.io/atom.xml" rel="self"/>
+  <link href="http://www.ocmg.top/atom.xml" rel="self"/>
   
-  <link href="https://0cmg.github.io/"/>
-  <updated>2021-06-02T07:57:28.260Z</updated>
-  <id>https://0cmg.github.io/</id>
+  <link href="http://www.ocmg.top/"/>
+  <updated>2021-06-03T07:07:45.604Z</updated>
+  <id>http://www.ocmg.top/</id>
   
   <author>
     <name>cmg</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Linux后台运行Hexo</title>
-    <link href="https://0cmg.github.io/p/8631bdb3.html"/>
-    <id>https://0cmg.github.io/p/8631bdb3.html</id>
+    <link href="http://www.ocmg.top/p/8631bdb3.html"/>
+    <id>http://www.ocmg.top/p/8631bdb3.html</id>
     <published>2021-06-02T06:50:27.000Z</published>
-    <updated>2021-06-02T07:57:28.260Z</updated>
+    <updated>2021-06-03T07:07:45.604Z</updated>
     
     
       
@@ -34,21 +34,21 @@
     
     
     
-    <category term="Hexo" scheme="https://0cmg.github.io/categories/Hexo/"/>
+    <category term="Hexo" scheme="http://www.ocmg.top/categories/Hexo/"/>
     
     
-    <category term="Hexo" scheme="https://0cmg.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://www.ocmg.top/tags/Hexo/"/>
     
-    <category term="Linux" scheme="https://0cmg.github.io/tags/Linux/"/>
+    <category term="Linux" scheme="http://www.ocmg.top/tags/Linux/"/>
     
-    <category term="后台运行" scheme="https://0cmg.github.io/tags/%E5%90%8E%E5%8F%B0%E8%BF%90%E8%A1%8C/"/>
+    <category term="后台运行" scheme="http://www.ocmg.top/tags/%E5%90%8E%E5%8F%B0%E8%BF%90%E8%A1%8C/"/>
     
   </entry>
   
   <entry>
     <title>CentOS 8设置防火墙</title>
-    <link href="https://0cmg.github.io/p/9b3f6412.html"/>
-    <id>https://0cmg.github.io/p/9b3f6412.html</id>
+    <link href="http://www.ocmg.top/p/9b3f6412.html"/>
+    <id>http://www.ocmg.top/p/9b3f6412.html</id>
     <published>2021-06-01T08:50:36.000Z</published>
     <updated>2021-06-02T07:57:28.270Z</updated>
     
@@ -64,21 +64,21 @@
     
     
     
-    <category term="Linux" scheme="https://0cmg.github.io/categories/Linux/"/>
+    <category term="Linux" scheme="http://www.ocmg.top/categories/Linux/"/>
     
     
-    <category term="Linux" scheme="https://0cmg.github.io/tags/Linux/"/>
+    <category term="Linux" scheme="http://www.ocmg.top/tags/Linux/"/>
     
-    <category term="firewall" scheme="https://0cmg.github.io/tags/firewall/"/>
+    <category term="firewall" scheme="http://www.ocmg.top/tags/firewall/"/>
     
-    <category term="CentOS 8" scheme="https://0cmg.github.io/tags/CentOS-8/"/>
+    <category term="CentOS 8" scheme="http://www.ocmg.top/tags/CentOS-8/"/>
     
   </entry>
   
   <entry>
     <title>Linux安装NodeJS</title>
-    <link href="https://0cmg.github.io/p/fe4ed47c.html"/>
-    <id>https://0cmg.github.io/p/fe4ed47c.html</id>
+    <link href="http://www.ocmg.top/p/fe4ed47c.html"/>
+    <id>http://www.ocmg.top/p/fe4ed47c.html</id>
     <published>2021-06-01T07:42:20.000Z</published>
     <updated>2021-06-02T07:57:28.276Z</updated>
     
@@ -93,21 +93,21 @@
     
     
     
-    <category term="Node" scheme="https://0cmg.github.io/categories/Node/"/>
+    <category term="Node" scheme="http://www.ocmg.top/categories/Node/"/>
     
-    <category term="Linux" scheme="https://0cmg.github.io/categories/Node/Linux/"/>
+    <category term="Linux" scheme="http://www.ocmg.top/categories/Node/Linux/"/>
     
     
-    <category term="Linux" scheme="https://0cmg.github.io/tags/Linux/"/>
+    <category term="Linux" scheme="http://www.ocmg.top/tags/Linux/"/>
     
-    <category term="Node" scheme="https://0cmg.github.io/tags/Node/"/>
+    <category term="Node" scheme="http://www.ocmg.top/tags/Node/"/>
     
   </entry>
   
   <entry>
     <title>PicGo+GitHub搭建图床</title>
-    <link href="https://0cmg.github.io/p/e4df49cd.html"/>
-    <id>https://0cmg.github.io/p/e4df49cd.html</id>
+    <link href="http://www.ocmg.top/p/e4df49cd.html"/>
+    <id>http://www.ocmg.top/p/e4df49cd.html</id>
     <published>2021-06-01T07:25:17.000Z</published>
     <updated>2021-06-02T07:57:28.284Z</updated>
     
@@ -122,21 +122,21 @@
     
     
     
-    <category term="图床" scheme="https://0cmg.github.io/categories/%E5%9B%BE%E5%BA%8A/"/>
+    <category term="图床" scheme="http://www.ocmg.top/categories/%E5%9B%BE%E5%BA%8A/"/>
     
     
-    <category term="PicGo" scheme="https://0cmg.github.io/tags/PicGo/"/>
+    <category term="PicGo" scheme="http://www.ocmg.top/tags/PicGo/"/>
     
-    <category term="GitHub" scheme="https://0cmg.github.io/tags/GitHub/"/>
+    <category term="GitHub" scheme="http://www.ocmg.top/tags/GitHub/"/>
     
-    <category term="图床" scheme="https://0cmg.github.io/tags/%E5%9B%BE%E5%BA%8A/"/>
+    <category term="图床" scheme="http://www.ocmg.top/tags/%E5%9B%BE%E5%BA%8A/"/>
     
   </entry>
   
   <entry>
     <title>Linux安装Git</title>
-    <link href="https://0cmg.github.io/p/cb641173.html"/>
-    <id>https://0cmg.github.io/p/cb641173.html</id>
+    <link href="http://www.ocmg.top/p/cb641173.html"/>
+    <id>http://www.ocmg.top/p/cb641173.html</id>
     <published>2021-06-01T06:44:15.000Z</published>
     <updated>2021-06-02T07:57:28.273Z</updated>
     
@@ -151,23 +151,23 @@
     
     
     
-    <category term="Linux" scheme="https://0cmg.github.io/categories/Linux/"/>
+    <category term="Linux" scheme="http://www.ocmg.top/categories/Linux/"/>
     
-    <category term="Git" scheme="https://0cmg.github.io/categories/Linux/Git/"/>
+    <category term="Git" scheme="http://www.ocmg.top/categories/Linux/Git/"/>
     
     
-    <category term="Linux" scheme="https://0cmg.github.io/tags/Linux/"/>
+    <category term="Linux" scheme="http://www.ocmg.top/tags/Linux/"/>
     
-    <category term="Git" scheme="https://0cmg.github.io/tags/Git/"/>
+    <category term="Git" scheme="http://www.ocmg.top/tags/Git/"/>
     
-    <category term="Linux安装Git" scheme="https://0cmg.github.io/tags/Linux%E5%AE%89%E8%A3%85Git/"/>
+    <category term="Linux安装Git" scheme="http://www.ocmg.top/tags/Linux%E5%AE%89%E8%A3%85Git/"/>
     
   </entry>
   
   <entry>
     <title>Linux命令大全</title>
-    <link href="https://0cmg.github.io/p/aba20dc.html"/>
-    <id>https://0cmg.github.io/p/aba20dc.html</id>
+    <link href="http://www.ocmg.top/p/aba20dc.html"/>
+    <id>http://www.ocmg.top/p/aba20dc.html</id>
     <published>2021-06-01T06:14:03.000Z</published>
     <updated>2021-06-02T07:57:28.272Z</updated>
     
@@ -182,19 +182,19 @@
     
     
     
-    <category term="Linux" scheme="https://0cmg.github.io/categories/Linux/"/>
+    <category term="Linux" scheme="http://www.ocmg.top/categories/Linux/"/>
     
     
-    <category term="Linux Command" scheme="https://0cmg.github.io/tags/Linux-Command/"/>
+    <category term="Linux Command" scheme="http://www.ocmg.top/tags/Linux-Command/"/>
     
-    <category term="Linux命令" scheme="https://0cmg.github.io/tags/Linux%E5%91%BD%E4%BB%A4/"/>
+    <category term="Linux命令" scheme="http://www.ocmg.top/tags/Linux%E5%91%BD%E4%BB%A4/"/>
     
   </entry>
   
   <entry>
     <title>根据WSDL接口使用Apache cxf生成Java代码</title>
-    <link href="https://0cmg.github.io/p/319f657d.html"/>
-    <id>https://0cmg.github.io/p/319f657d.html</id>
+    <link href="http://www.ocmg.top/p/319f657d.html"/>
+    <id>http://www.ocmg.top/p/319f657d.html</id>
     <published>2021-05-27T09:30:49.000Z</published>
     <updated>2021-06-02T07:57:28.267Z</updated>
     
@@ -209,21 +209,21 @@
     
     
     
-    <category term="WebService" scheme="https://0cmg.github.io/categories/WebService/"/>
+    <category term="WebService" scheme="http://www.ocmg.top/categories/WebService/"/>
     
     
-    <category term="WSDL" scheme="https://0cmg.github.io/tags/WSDL/"/>
+    <category term="WSDL" scheme="http://www.ocmg.top/tags/WSDL/"/>
     
-    <category term="Apache xcf" scheme="https://0cmg.github.io/tags/Apache-xcf/"/>
+    <category term="Apache xcf" scheme="http://www.ocmg.top/tags/Apache-xcf/"/>
     
-    <category term="Java" scheme="https://0cmg.github.io/tags/Java/"/>
+    <category term="Java" scheme="http://www.ocmg.top/tags/Java/"/>
     
   </entry>
   
   <entry>
     <title>GitHub+Hexo搭建个人网站详细教程</title>
-    <link href="https://0cmg.github.io/p/b589d958.html"/>
-    <id>https://0cmg.github.io/p/b589d958.html</id>
+    <link href="http://www.ocmg.top/p/b589d958.html"/>
+    <id>http://www.ocmg.top/p/b589d958.html</id>
     <published>2021-05-27T01:10:01.000Z</published>
     <updated>2021-06-02T07:57:28.258Z</updated>
     
@@ -238,21 +238,21 @@
     
     
     
-    <category term="Hexo" scheme="https://0cmg.github.io/categories/Hexo/"/>
+    <category term="Hexo" scheme="http://www.ocmg.top/categories/Hexo/"/>
     
     
-    <category term="GitHub+Hexo搭建个人网站" scheme="https://0cmg.github.io/tags/GitHub-Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/"/>
+    <category term="GitHub+Hexo搭建个人网站" scheme="http://www.ocmg.top/tags/GitHub-Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/"/>
     
-    <category term="website" scheme="https://0cmg.github.io/tags/website/"/>
+    <category term="website" scheme="http://www.ocmg.top/tags/website/"/>
     
-    <category term="网站" scheme="https://0cmg.github.io/tags/%E7%BD%91%E7%AB%99/"/>
+    <category term="网站" scheme="http://www.ocmg.top/tags/%E7%BD%91%E7%AB%99/"/>
     
   </entry>
   
   <entry>
     <title>Oracle笔记(二)锁表检测及处理</title>
-    <link href="https://0cmg.github.io/p/7b6bf07a.html"/>
-    <id>https://0cmg.github.io/p/7b6bf07a.html</id>
+    <link href="http://www.ocmg.top/p/7b6bf07a.html"/>
+    <id>http://www.ocmg.top/p/7b6bf07a.html</id>
     <published>2021-05-21T06:13:44.000Z</published>
     <updated>2021-06-02T07:57:28.281Z</updated>
     
@@ -267,21 +267,21 @@
     
     
     
-    <category term="Oracle" scheme="https://0cmg.github.io/categories/Oracle/"/>
+    <category term="Oracle" scheme="http://www.ocmg.top/categories/Oracle/"/>
     
     
-    <category term="Oracle锁表" scheme="https://0cmg.github.io/tags/Oracle%E9%94%81%E8%A1%A8/"/>
+    <category term="Oracle锁表" scheme="http://www.ocmg.top/tags/Oracle%E9%94%81%E8%A1%A8/"/>
     
-    <category term="锁表检测" scheme="https://0cmg.github.io/tags/%E9%94%81%E8%A1%A8%E6%A3%80%E6%B5%8B/"/>
+    <category term="锁表检测" scheme="http://www.ocmg.top/tags/%E9%94%81%E8%A1%A8%E6%A3%80%E6%B5%8B/"/>
     
-    <category term="锁表处理" scheme="https://0cmg.github.io/tags/%E9%94%81%E8%A1%A8%E5%A4%84%E7%90%86/"/>
+    <category term="锁表处理" scheme="http://www.ocmg.top/tags/%E9%94%81%E8%A1%A8%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>Oracle笔记(一)创建表空间及用户</title>
-    <link href="https://0cmg.github.io/p/9dc7261d.html"/>
-    <id>https://0cmg.github.io/p/9dc7261d.html</id>
+    <link href="http://www.ocmg.top/p/9dc7261d.html"/>
+    <id>http://www.ocmg.top/p/9dc7261d.html</id>
     <published>2021-05-21T05:59:05.000Z</published>
     <updated>2021-06-02T07:57:28.279Z</updated>
     
@@ -296,21 +296,21 @@
     
     
     
-    <category term="Oracle" scheme="https://0cmg.github.io/categories/Oracle/"/>
+    <category term="Oracle" scheme="http://www.ocmg.top/categories/Oracle/"/>
     
     
-    <category term="创建表空间" scheme="https://0cmg.github.io/tags/%E5%88%9B%E5%BB%BA%E8%A1%A8%E7%A9%BA%E9%97%B4/"/>
+    <category term="创建表空间" scheme="http://www.ocmg.top/tags/%E5%88%9B%E5%BB%BA%E8%A1%A8%E7%A9%BA%E9%97%B4/"/>
     
-    <category term="创建用户" scheme="https://0cmg.github.io/tags/%E5%88%9B%E5%BB%BA%E7%94%A8%E6%88%B7/"/>
+    <category term="创建用户" scheme="http://www.ocmg.top/tags/%E5%88%9B%E5%BB%BA%E7%94%A8%E6%88%B7/"/>
     
-    <category term="授权" scheme="https://0cmg.github.io/tags/%E6%8E%88%E6%9D%83/"/>
+    <category term="授权" scheme="http://www.ocmg.top/tags/%E6%8E%88%E6%9D%83/"/>
     
   </entry>
   
   <entry>
     <title>JDK各个历史版本下载方法</title>
-    <link href="https://0cmg.github.io/p/b68953c6.html"/>
-    <id>https://0cmg.github.io/p/b68953c6.html</id>
+    <link href="http://www.ocmg.top/p/b68953c6.html"/>
+    <id>http://www.ocmg.top/p/b68953c6.html</id>
     <published>2021-05-13T01:57:51.000Z</published>
     <updated>2021-06-02T07:57:28.265Z</updated>
     
@@ -325,25 +325,25 @@
     
     
     
-    <category term="SoftWare" scheme="https://0cmg.github.io/categories/SoftWare/"/>
+    <category term="SoftWare" scheme="http://www.ocmg.top/categories/SoftWare/"/>
     
-    <category term="JDK" scheme="https://0cmg.github.io/categories/SoftWare/JDK/"/>
+    <category term="JDK" scheme="http://www.ocmg.top/categories/SoftWare/JDK/"/>
     
     
-    <category term="JDK" scheme="https://0cmg.github.io/tags/JDK/"/>
+    <category term="JDK" scheme="http://www.ocmg.top/tags/JDK/"/>
     
-    <category term="Oracle" scheme="https://0cmg.github.io/tags/Oracle/"/>
+    <category term="Oracle" scheme="http://www.ocmg.top/tags/Oracle/"/>
     
-    <category term="历史版本" scheme="https://0cmg.github.io/tags/%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC/"/>
+    <category term="历史版本" scheme="http://www.ocmg.top/tags/%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC/"/>
     
-    <category term="DownLoad" scheme="https://0cmg.github.io/tags/DownLoad/"/>
+    <category term="DownLoad" scheme="http://www.ocmg.top/tags/DownLoad/"/>
     
   </entry>
   
   <entry>
     <title>剑指offer</title>
-    <link href="https://0cmg.github.io/p/1c53329c.html"/>
-    <id>https://0cmg.github.io/p/1c53329c.html</id>
+    <link href="http://www.ocmg.top/p/1c53329c.html"/>
+    <id>http://www.ocmg.top/p/1c53329c.html</id>
     <published>2021-05-08T09:13:24.000Z</published>
     <updated>2021-06-02T07:57:28.262Z</updated>
     
@@ -358,21 +358,21 @@
     
     
     
-    <category term="笔试" scheme="https://0cmg.github.io/categories/%E7%AC%94%E8%AF%95/"/>
+    <category term="笔试" scheme="http://www.ocmg.top/categories/%E7%AC%94%E8%AF%95/"/>
     
     
-    <category term="Coding" scheme="https://0cmg.github.io/tags/Coding/"/>
+    <category term="Coding" scheme="http://www.ocmg.top/tags/Coding/"/>
     
-    <category term="编程题" scheme="https://0cmg.github.io/tags/%E7%BC%96%E7%A8%8B%E9%A2%98/"/>
+    <category term="编程题" scheme="http://www.ocmg.top/tags/%E7%BC%96%E7%A8%8B%E9%A2%98/"/>
     
-    <category term="剑指offer" scheme="https://0cmg.github.io/tags/%E5%89%91%E6%8C%87offer/"/>
+    <category term="剑指offer" scheme="http://www.ocmg.top/tags/%E5%89%91%E6%8C%87offer/"/>
     
   </entry>
   
   <entry>
     <title>IDEA报错合集</title>
-    <link href="https://0cmg.github.io/p/4f9f6511.html"/>
-    <id>https://0cmg.github.io/p/4f9f6511.html</id>
+    <link href="http://www.ocmg.top/p/4f9f6511.html"/>
+    <id>http://www.ocmg.top/p/4f9f6511.html</id>
     <published>2021-05-07T06:07:49.000Z</published>
     <updated>2021-06-02T07:57:28.289Z</updated>
     
@@ -387,17 +387,17 @@
     
     
     
-    <category term="IDEA" scheme="https://0cmg.github.io/categories/IDEA/"/>
+    <category term="IDEA" scheme="http://www.ocmg.top/categories/IDEA/"/>
     
     
-    <category term="IDEA报错合集" scheme="https://0cmg.github.io/tags/IDEA%E6%8A%A5%E9%94%99%E5%90%88%E9%9B%86/"/>
+    <category term="IDEA报错合集" scheme="http://www.ocmg.top/tags/IDEA%E6%8A%A5%E9%94%99%E5%90%88%E9%9B%86/"/>
     
   </entry>
   
   <entry>
     <title>Git push报错</title>
-    <link href="https://0cmg.github.io/p/70b160a5.html"/>
-    <id>https://0cmg.github.io/p/70b160a5.html</id>
+    <link href="http://www.ocmg.top/p/70b160a5.html"/>
+    <id>http://www.ocmg.top/p/70b160a5.html</id>
     <published>2021-05-06T09:06:08.000Z</published>
     <updated>2021-06-02T07:57:28.255Z</updated>
     
@@ -412,19 +412,19 @@
     
     
     
-    <category term="Git" scheme="https://0cmg.github.io/categories/Git/"/>
+    <category term="Git" scheme="http://www.ocmg.top/categories/Git/"/>
     
     
-    <category term="Git报错合集" scheme="https://0cmg.github.io/tags/Git%E6%8A%A5%E9%94%99%E5%90%88%E9%9B%86/"/>
+    <category term="Git报错合集" scheme="http://www.ocmg.top/tags/Git%E6%8A%A5%E9%94%99%E5%90%88%E9%9B%86/"/>
     
-    <category term="push" scheme="https://0cmg.github.io/tags/push/"/>
+    <category term="push" scheme="http://www.ocmg.top/tags/push/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://0cmg.github.io/p/4a17b156.html"/>
-    <id>https://0cmg.github.io/p/4a17b156.html</id>
+    <link href="http://www.ocmg.top/p/4a17b156.html"/>
+    <id>http://www.ocmg.top/p/4a17b156.html</id>
     <published>2021-05-05T09:06:08.000Z</published>
     <updated>2021-06-02T07:57:28.286Z</updated>
     
@@ -439,10 +439,10 @@
     
     
     
-    <category term="其他" scheme="https://0cmg.github.io/categories/%E5%85%B6%E4%BB%96/"/>
+    <category term="其他" scheme="http://www.ocmg.top/categories/%E5%85%B6%E4%BB%96/"/>
     
     
-    <category term="示例" scheme="https://0cmg.github.io/tags/%E7%A4%BA%E4%BE%8B/"/>
+    <category term="示例" scheme="http://www.ocmg.top/tags/%E7%A4%BA%E4%BE%8B/"/>
     
   </entry>
   
